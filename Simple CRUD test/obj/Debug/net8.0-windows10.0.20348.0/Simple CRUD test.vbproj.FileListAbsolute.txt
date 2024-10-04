@@ -1,0 +1,19 @@
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\bin\Debug\net8.0-windows10.0.20348.0\Simple CRUD test.exe
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\bin\Debug\net8.0-windows10.0.20348.0\Simple CRUD test.deps.json
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\bin\Debug\net8.0-windows10.0.20348.0\Simple CRUD test.runtimeconfig.json
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\bin\Debug\net8.0-windows10.0.20348.0\Simple CRUD test.dll
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\bin\Debug\net8.0-windows10.0.20348.0\Simple CRUD test.pdb
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\bin\Debug\net8.0-windows10.0.20348.0\Microsoft.Windows.SDK.NET.dll
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\bin\Debug\net8.0-windows10.0.20348.0\WinRT.Runtime.dll
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows10.0.20348.0\Simple_CRUD_test.UserForm.resources
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows10.0.20348.0\Simple CRUD test.vbproj.GenerateResource.cache
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows10.0.20348.0\Simple CRUD test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows10.0.20348.0\Simple CRUD test.AssemblyInfoInputs.cache
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows10.0.20348.0\Simple CRUD test.AssemblyInfo.vb
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows10.0.20348.0\Simple CRUD test.vbproj.CoreCompileInputs.cache
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows10.0.20348.0\Simple C.250D5FAE.Up2Date
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows10.0.20348.0\Simple CRUD test.dll
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows10.0.20348.0\refint\Simple CRUD test.dll
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows10.0.20348.0\Simple CRUD test.pdb
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows10.0.20348.0\Simple CRUD test.genruntimeconfig.cache
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows10.0.20348.0\ref\Simple CRUD test.dll

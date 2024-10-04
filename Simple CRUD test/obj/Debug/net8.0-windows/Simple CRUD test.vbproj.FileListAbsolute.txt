@@ -1,0 +1,16 @@
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows\Simple_CRUD_test.UserForm.resources
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows\Simple CRUD test.vbproj.GenerateResource.cache
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows\Simple CRUD test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows\Simple CRUD test.AssemblyInfoInputs.cache
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows\Simple CRUD test.AssemblyInfo.vb
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows\Simple CRUD test.vbproj.CoreCompileInputs.cache
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\bin\Debug\net8.0-windows\Simple CRUD test.exe
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\bin\Debug\net8.0-windows\Simple CRUD test.deps.json
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\bin\Debug\net8.0-windows\Simple CRUD test.runtimeconfig.json
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\bin\Debug\net8.0-windows\Simple CRUD test.dll
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\bin\Debug\net8.0-windows\Simple CRUD test.pdb
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows\Simple CRUD test.dll
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows\refint\Simple CRUD test.dll
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows\Simple CRUD test.pdb
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows\Simple CRUD test.genruntimeconfig.cache
+E:\Work\Test\Visual studo 2022\vb.net\Simple CRUD test\Simple CRUD test\obj\Debug\net8.0-windows\ref\Simple CRUD test.dll
